@@ -182,7 +182,7 @@ If it works, you’ll see a success message and transaction details printed in y
 1. Generate two Testnet accounts (use `StellarSdk.Keypair.random()`).
 2. Fund both accounts with Friendbot.
 3. Use the `sendPayment()` function to send **5 XLM** from one account to the other.
-4. Confirm the transaction using the returned result or check it on [https://testnet.stellar.expert](https://testnet.stellar.expert).
+4. Confirm the transaction using the returned result or check it on [https://stellar.expert/explorer/testnet].
 
 ---
 
