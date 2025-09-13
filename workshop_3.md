@@ -459,11 +459,11 @@ This foundation will help you build more complex Stellar applications in the fut
 
 **Beginner Apps (Modified Marketplace)**
 
-Digital Art Marketplace
-Course/Tutorial Platform
-Freelancer Services Hub
-Event Ticketing System
-Digital Collectibles Exchange
+- Digital Art Marketplace
+- Course/Tutorial Platform
+- Freelancer Services Hub
+- Event Ticketing System
+- Digital Collectibles Exchange
 
 **Intermediate Apps**
 
