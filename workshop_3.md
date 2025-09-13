@@ -467,29 +467,29 @@ Digital Collectibles Exchange
 
 **Intermediate Apps**
 
-Carbon Credit Marketplace 
-Remittance Platform 
-Supply Chain Transparency
-Micro-Insurance Platform 
-Community Solar Marketplace
-Local Currency Exchange
-Subscription Management Platform
-Crowdfunding Platform
-Peer-to-Peer Lending
-Skills Verification System
+- Carbon Credit Marketplace 
+- Remittance Platform 
+- Supply Chain Transparency
+- Micro-Insurance Platform 
+- Community Solar Marketplace
+- Local Currency Exchange
+- Subscription Management Platform
+- Crowdfunding Platform
+- Peer-to-Peer Lending
+- Skills Verification System
 
 **Advanced Apps (Complex Problems)**
 
-Decentralized Clinical Trials 
-Refugee Aid Distribution 
-Intellectual Property Exchange 
-Disaster Response Coordination 
-Democratic Voting Platform 
-Medical Records System
-Land Title Registry
-Identity Verification Platform
-Prediction Markets
-Decentralized Autonomous Organization (DAO)
+- Decentralized Clinical Trials 
+- Refugee Aid Distribution 
+- Intellectual Property Exchange 
+- Disaster Response Coordination 
+- Democratic Voting Platform 
+- Medical Records System
+- Land Title Registry
+- Identity Verification Platform
+- Prediction Markets
+- Decentralized Autonomous Organization (DAO)
 
 
 
